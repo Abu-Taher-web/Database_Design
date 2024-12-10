@@ -2,7 +2,7 @@
 
 This database is a part of my **Free Medicine Donation Website**. It aimed at collecting unused medicines from individuals, taking donations from donors, and distributing these medicines to underprivileged individuals who cannot afford expensive treatments. It leverages modern web technologies for efficient management and accessibility.
 
----
+<img src="images/ER_Diagram1.png" alt="ER Diagram" width="1000"/>
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -34,7 +34,7 @@ Unused medicines can save lives if managed effectively. This platform bridges th
 ## ER Diagram
 The following diagram represents the relationships between the entities in the database.
 
-<img src="images/ER_Diagram1.png" alt="ER Diagram" width="1000"/>
+<img src="images/ER_Diagram.png" alt="ER Diagram" width="700"/>
 
 
 ---
